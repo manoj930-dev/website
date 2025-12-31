@@ -9,7 +9,7 @@ const Footer = () => {
         {/* ================= TOP FOOTER ================= */}
         <div className="row g-4">
 
-          {/* COMPANY INFO */}
+          {/* COMPANY INFO */}  
           <div className="col-md-4">
             <h4 className="fw-bold">
               MSP <span className="text-primary">IT Solution</span>

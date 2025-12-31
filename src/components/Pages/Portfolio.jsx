@@ -116,12 +116,7 @@ const Portfolio = () => {
                     <strong>Industry:</strong> {project.industry}
                   </p>
 
-                  <a
-                    href="#"
-                    className="btn btn-outline-orange btn-sm mt-2"
-                  >
-                    View Case Study
-                  </a>
+                 
                 </div>
               </div>
             </article>
